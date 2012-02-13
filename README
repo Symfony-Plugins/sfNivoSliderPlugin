@@ -2,7 +2,7 @@ sfNivoSliderPlugin
 ===============
 
 The `sfNivoSliderPlugin` is a symfony plugin that provides integration with
-jQuery [Nivo Slider](http://nivo.dev7studios.com).
+jQuery [Nivo-Slider](http://nivo.dev7studios.com).
 
 Installation
 ============
