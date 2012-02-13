@@ -3,7 +3,7 @@
  <name>sfNivoSliderPlugin</name>
  <channel>plugins.symfony-project.org</channel>
  <summary>sfNivoSliderPlugin provides integration with jQuery Nivo Slider.</summary>
- <description>sfDoxygenPlugin provides integration with jQuery Nivo Slider.</description>
+ <description>sfNivoSliderPlugin provides integration with jQuery Nivo Slider.</description>
  <lead>
   <name>Tomasz Ducin</name>
   <user>tkoomzaaskz</user>
@@ -13,7 +13,7 @@
  <date>2012-02-13</date>
  <time>11:00:00</time>
  <version>
-   <release>1.0.0</release>
+   <release>0.9.0</release>
    <api>1.0.0</api>
  </version>
  <stability>
@@ -32,6 +32,7 @@
          <file role="data" name="nivo-slider.css" />
        </dir>
        <dir name="js">
+         <file role="data" name="demo.js" />
          <file role="data" name="jquery-1.7.1.min.js" />
          <file role="data" name="jquery.nivo.slider.pack.js" />
        </dir>
@@ -79,7 +80,7 @@
 
   <release>
     <version>
-      <release>1.0.0</release>
+      <release>0.9.0</release>
       <api>1.0.0</api>
     </version>
     <stability>
@@ -87,7 +88,7 @@
      <api>stable</api>
     </stability>
     <license uri="http://www.symfony-project.org/license">MIT license</license>
-    <date>2009-12-03</date>
+    <date>2012-02-13</date>
     <license>MIT</license>
     <notes>
       * initial release
