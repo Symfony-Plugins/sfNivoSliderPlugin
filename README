@@ -38,6 +38,16 @@ Notes
 
   * preparing initial sfNivoSliderPlugin release used revision number 33333 ;)
 
+todo
+====
+
+ * uploads
+
+        mkdir uploads/nivo_slider
+        chmod 777 uploads/nivo_slider
+        enable module sfNivoSliderDemo
+        ./symfony plugin:publish-assets
+
 Additional
 ==========
 
